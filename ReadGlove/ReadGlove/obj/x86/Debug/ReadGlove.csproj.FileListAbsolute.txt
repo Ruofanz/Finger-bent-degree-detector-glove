@@ -1,0 +1,8 @@
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\bin\Debug\ReadGlove.exe
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\bin\Debug\ReadGlove.pdb
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\obj\x86\Debug\ReadGlove.Form1.resources
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\obj\x86\Debug\ReadGlove.Properties.Resources.resources
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\obj\x86\Debug\ReadGlove.csproj.GenerateResource.Cache
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\obj\x86\Debug\ReadGlove.exe
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\obj\x86\Debug\ReadGlove.pdb
+C:\HAIDER ZRF\C# 读取串口\ReadGlove\ReadGlove\obj\x86\Debug\ReadGlove.csprojResolveAssemblyReference.cache
